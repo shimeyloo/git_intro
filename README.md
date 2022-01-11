@@ -1,1 +1,2 @@
-"Shimey Loo" 
+Shimey Loo
+loosh@oregonstate.edu
